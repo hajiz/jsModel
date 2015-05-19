@@ -1,0 +1,23 @@
+{
+  "name": "jsModel",
+  "version": "0.0.0",
+  "description": "Model object for JS, with hierarchical attributes and bindings",
+  "main": "Model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hajiz/jsModel.git"
+  },
+  "keywords": [
+    "javascript",
+    "model",
+    "hierarchy"
+  ],
+  "author": "Amir Hossein Hajizadeh",
+  "license": "The MIT License (MIT)",
+  "bugs": {
+    "url": "https://github.com/hajiz/jsModel/issues"
+  }
+}
